@@ -352,6 +352,16 @@
 
 body {
 	font-family: Arial, Helvetica, Sans-serif;
+	  /* Set the background image */
+	  background-image: url('your-image-url.jpg');
+	
+	  /* Set background image properties */
+	  background-size: cover; /* You can use 'contain' or other values based on your preference */
+	  background-repeat: no-repeat;
+	  background-position: center center;
+	
+	  /* Set background color in case the image is not available or doesn't cover the entire screen */
+	  background-color: #f0f0f0;
 }
 
 img {
