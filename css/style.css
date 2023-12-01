@@ -353,7 +353,7 @@
 body {
 	font-family: Arial, Helvetica, Sans-serif;
 	  /* Set the background image */
-	  background-image: url('assets/img/_DSC4548.JPG');
+	  background-image: url('./assets/img/_DSC4548.JPG');
 	
 	  /* Set background image properties */
 	  background-size: cover; /* You can use 'contain' or other values based on your preference */
